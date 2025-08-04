@@ -17,7 +17,7 @@ It supports text inputs to provide personalized dietary advice.
 
 ## 👤 Author
 **Bismay Kumar Biswal**  
-[Your College Name], [Your Department]  
+[(ITER) SIKSHA ‘O’ ANUSANDHAN],[ COMPUTER SCIENCE AND ENGINEERING]  
 Capstone Project (2025)
 
 ---
